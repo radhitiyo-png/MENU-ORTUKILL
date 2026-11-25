@@ -1,0 +1,8 @@
+{
+  "name": "ORTUKILL KEDIRI - Menu & Order Online WhatsApp",
+  "description": "Menu interaktif ORTUKILL KEDIRI dengan pemesanan langsung WhatsApp, lokasi Google Maps, dan integrasi Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
